@@ -1,0 +1,15 @@
+Analog Ch  State   Scale    Position   Coupling  BW Limit  Invert
+CH1        On      200mV/   -592mV     DC        Off       Off
+
+Analog Ch  Impedance   Probe
+CH1        1M Ohm      1X
+
+Time    Time Ref    Main Scale    Delay
+Main    Center      10.00ns/      2.810000us
+
+Trigger  Source      Slope    Mode      Coupling     Level    Holdoff
+Edge     CH1         10.00ns/  Auto      DC            514mV   4.60us
+
+Acquisition    Sampling    Memory Depth    Sample Rate
+Normal         Realtime       Normal        2.000GSa    
+

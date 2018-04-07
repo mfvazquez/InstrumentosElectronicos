@@ -1,0 +1,53 @@
+CABLE RG59
+APROX 1 metro y pico
+
+CSV
+0
+RISE TIME
+1
+2
+FALL TIME
+3
+PERIODO
+5
+RISE TIME CON CARGA
+6
+RISE TIME SIN CARGA SIN CABLE / SOLO EL GENERADOR
+
+
+RISE TIME SIN CARGA > 7ns
+
+
+7
+8
+9
+SENAL DEL GENERADOR grande
+
+10
+11
+SENAL CON CABLE A CIRCUITO ABIERTO
+
+13
+14
+R SERIE L
+L=18uHy
+R=100ohm
+TAU=180ns
+
+15
+16
+17
+18
+R PARALELO L
+
+19
+20
+21
+22
+R SERIE C
+C=560pF
+R=100ohm
+
+mfvazquezfiuba@gmail.com
+franciscobarber@gmail.com
+itdepedro@gmail.com
