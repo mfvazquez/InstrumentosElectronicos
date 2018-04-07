@@ -1,4 +1,4 @@
-CABLE RG59
+CABLE RG58
 APROX 1 metro y pico
 
 CSV
