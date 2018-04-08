@@ -4,7 +4,7 @@ function tau = CalcularTau(tiempo,amplitud)
 
     amplitud_normalizada = (amplitud-amplitud(end))/(amplitud(1)-amplitud(end));
     
-    aux = find(amplitud_normalizada <= 0.37);
+    aux = find(amplitud_normalizada <= exp(-1));
     tau = tiempo(aux(1)) - tiempo(1);
     
 end
