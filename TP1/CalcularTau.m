@@ -1,6 +1,6 @@
 function tau = CalcularTau(tiempo,amplitud)
-    % Calcula tau de una señal descendiente. El primer subindice
-    % debe ser el de mayor amplitud y el último el de menor amplitud.
+    % Calcula tau de una senial descendiente. El primer subindice
+    % debe ser el de mayor amplitud y el ultimo el de menor amplitud.
 
     amplitud_normalizada = (amplitud-amplitud(end))/(amplitud(1)-amplitud(end));
     

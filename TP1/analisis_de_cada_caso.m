@@ -104,5 +104,3 @@ C = tau*(R+Zo)/(Zo*R);
 disp('RC paralelo:')
 disp(['    tau = ', num2str(tau)])
 disp(['    C = ', num2str(C)])
-
-disp(['RC paralelo tau = ', num2str(tau)])
